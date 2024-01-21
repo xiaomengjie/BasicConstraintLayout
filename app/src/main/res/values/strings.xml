@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BasicConstraintLayout</string>
+    <string name="constraint_layout">constraintLayout</string>
+    <string name="constraint">constraint</string>
+    <string name="layout">layout</string>
+    <string name="numbers">1234567121212111212121</string>
 </resources>
